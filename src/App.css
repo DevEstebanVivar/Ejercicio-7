@@ -1,0 +1,25 @@
+.App {
+  font-family: Arial, sans-serif;
+  max-width: 800px;
+  margin: auto;
+  padding: 2rem;
+  color: #333;
+}
+
+header,
+section,
+footer {
+  margin-bottom: 2rem;
+}
+
+h1 {
+  color: #0b5394;
+}
+
+img {
+  margin-top: 1rem;
+}
+
+ul {
+  list-style: disc inside;
+}
